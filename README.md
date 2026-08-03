@@ -61,7 +61,7 @@ The repository is organized according to the thesis chapters to facilitate exami
 # 🏗 Overall Research Framework
 
 <p align="center">
-<img src="docs/figures/Overall_Framework.png" width="900">
+<img src="/Docs/Figures/research_framework.png" width="900">
 </p>
 
 The proposed research integrates three complementary computational intelligence frameworks to address the continuum of precision oncology, from **early cancer detection** to **personalized anticancer therapy**.
