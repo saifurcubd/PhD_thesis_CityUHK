@@ -1,0 +1,10 @@
+{
+  "epoch": 200,
+  "batch": 256,
+  "suffix": "SDDSynergyDataset_0to10_2432_12415_dti_LMGAN",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}

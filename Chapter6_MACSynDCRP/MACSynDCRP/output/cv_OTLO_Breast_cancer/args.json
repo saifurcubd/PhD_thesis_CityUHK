@@ -1,0 +1,10 @@
+{
+  "epoch": 150,
+  "batch": 256,
+  "suffix": "OTLO_Breast_cancer",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}
