@@ -70,10 +70,6 @@ The proposed research integrates three complementary computational intelligence 
 
 # 🎯 Thesis Contributions
 
-<p align="center">
-<img src="docs/figures/Research_Contribution.png" width="900">
-</p>
-
 The thesis proposes three major computational frameworks.
 
 | Chapter   | Framework                 | Research Focus                                                                                                      |
@@ -113,17 +109,16 @@ PhD_Thesis_CityU/
 # 🔬 Chapter 4 — CancerEMC
 
 <p align="center">
-<img src="Chapter4_CancerEMC/figures/CancerEMC_Framework.png" width="850">
+<img src="Docs/Figures/CancerEMC.png" width="850">
 </p>
 
 CancerEMC is an ensemble machine learning framework developed for liquid biopsy-based early cancer detection by integrating circulating cell-free DNA mutation signatures and circulating protein biomarkers.
 
 ### Main Contributions
 
-* Multi-modal biomarker integration
+* Multi-modal cfDNA and biomarker integration
 * Ensemble learning framework
 * Cancer detection and localization
-* Explainable biomarker analysis
 * Validation using the CancerSEEK cohort
 
 Repository:
@@ -131,18 +126,17 @@ Repository:
 ```
 Chapter4_CancerEMC/
 ```
-
 ---
 
 # 🧬 Chapter 5 — ClinicalEarlyCancerDF
 
 <p align="center">
-<img src="Chapter5_ClinicalEarlyCancerDF/figures/ClinicalEarlyCancerDF_Framework.png" width="900">
+<img src="Docs/Figures/ClinicalEarlyCancerDF.png" width="900">
 </p>
 
-ClinicalEarlyCancerDF represents the principal contribution of this thesis for liquid biopsy-based early cancer detection.
+ClinicalEarlyCancerDF represents one of the principal contributions of this thesis for liquid biopsy-based early cancer detection.
 
-Unlike conventional prediction models, ClinicalEarlyCancerDF is designed as a **generalized adaptive computational framework** capable of automatically identifying an optimal computational pipeline for heterogeneous early cancer datasets.
+Unlike conventional prediction models, ClinicalEarlyCancerDF is designed as a **generalized adaptive computational framework** capable of automatically identifying an optimal computational pipeline for heterogeneous early cancer liquid biopsy datasets.
 
 The framework integrates:
 
@@ -160,33 +154,32 @@ to adaptively determine:
 
 according to the characteristics of each dataset.
 
-The framework was validated using multiple independent liquid biopsy datasets, demonstrating its capability to generate dataset-specific computational pipelines for early cancer detection.
+The framework was validated using multiple independent liquid biopsy datasets from different patient cohorts, demonstrating its capability to generate dataset-specific computational pipelines for early cancer detection.
 
 Repository:
-
 ```
 Chapter5_ClinicalEarlyCancerDF/
 ```
-
 ---
 
 # 💊 Chapter 6 — MACSynDCRP
 
 <p align="center">
-<img src="Chapter6_MACSynDCRP/figures/MACSynDCRP_Framework.png" width="900">
+<img src="Docs/Figures/MACSynDCRP.png" width="900">
 </p>
-
 MACSynDCRP is a multimodal deep learning framework developed for predicting synergistic anticancer drug combination responses.
 
 The framework integrates:
-
 * Drug molecular descriptors
 * Graph neural networks
 * Transcriptomics
 * Pharmacogenomics
 * Protein interaction networks
+* Drug-Drug and Drug-Cell_line interaction
+* VAE for feature reduction
+* Deep Learning Prediction models
 
-through an ensemble deep learning architecture for precision drug response prediction.
+through an ensemble hybrid deep learning architecture for precision drug response prediction.
 
 Repository:
 
