@@ -1,0 +1,10 @@
+{
+  "epoch": 1,
+  "batch": 256,
+  "suffix": "external_test",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}

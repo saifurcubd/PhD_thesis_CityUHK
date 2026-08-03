@@ -1,0 +1,10 @@
+{
+  "epoch": 150,
+  "batch": 256,
+  "suffix": "Externel_Ind_AstraZeneca_test_results_150",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}
