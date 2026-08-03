@@ -1,7 +1,8 @@
 
 <p align="center">
 
-# 🧬 Computational Intelligence Frameworks for Precision Oncology:Early Cancer Detection and Anticancer Drug Combination Response Prediction
+# 🧬 Computational Intelligence Frameworks for Precision Oncology:
+Early Cancer Detection and Anticancer Drug Combination Response Prediction
 
 
 **PhD Thesis Repository**
@@ -192,7 +193,7 @@ Chapter6_MACSynDCRP/
 # ⚙ Experimental Workflow
 
 <p align="center">
-<img src="docs/figures/Experimental_Workflow.png" width="950">
+<img src="Docs/Figures/Experimental_Workflow.png" width="950">
 </p>
 
 This repository documents the complete research workflow, including:
@@ -235,7 +236,7 @@ The implementation consists of multiple research modules developed throughout th
 These include:
 
 * Python notebooks
-* WEKA experiment configurations
+* WEKA tools
 * Feature selection modules
 * Optimization modules
 * Deep learning models
@@ -251,7 +252,6 @@ The implementation evolved over several years using Python and WEKA. The reposit
 The repository also contains:
 
 * Supplementary response documents
-* Experimental settings
 * Prediction outputs
 * WEKA experiment results
 * Ablation analyses
@@ -292,20 +292,16 @@ If you use this work, please cite:
 
 **Saifur Rahaman**
 
-Assistant Professor
-Department of Computer Science and Engineering
-International Islamic University Chittagong (IIUC)
-
 PhD Candidate
 City University of Hong Kong
 
-Email: *your-email@domain*
+Email: *srahaman2-c@my.cityu.edu.hk, saifurcubd@gmail.com**
 
 ---
 
 # 🙏 Acknowledgements
 
-I sincerely thank my PhD supervisor, collaborators, research partners, and the City University of Hong Kong for their invaluable guidance and support throughout this research.
+I sincerely thank my respected PhD supervisor and mentor from Harvard Medical School, collaborators, research partners, and the City University of Hong Kong for their invaluable guidance and support throughout this research.
 
 ---
 
