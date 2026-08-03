@@ -1,0 +1,47 @@
+C:\Users\srahaman2\Documents\PhD research\MACSynDCR\LapMGAN>python MACSynDCR_CV_RUN_with_LMGAN_shape_ANN.py --epoch 30 --suffix Ablation_No_ensemble_LR
+2025-08-20 21:03:05.207812: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-08-20 21:03:06.175741: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Fold 1
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+Accuracy: 0.8025, AUC-ROC: 0.8848
+ AUC-PR: 0.8893, Precision: 0.8087, Recall: 0.7890, F1 Score: 0.7987
+RMSE: 14.7139 , PCC: 0.6712
+Fold 2
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+Accuracy: 0.8184, AUC-ROC: 0.8979
+ AUC-PR: 0.8936, Precision: 0.8060, Recall: 0.8310, F1 Score: 0.8183
+RMSE: 14.2318 , PCC: 0.6970
+Fold 3
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+Accuracy: 0.8159, AUC-ROC: 0.9014
+ AUC-PR: 0.9001, Precision: 0.8134, Recall: 0.8070, F1 Score: 0.8102
+RMSE: 14.1592 , PCC: 0.7005
+Fold 4
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+Accuracy: 0.8127, AUC-ROC: 0.8989
+ AUC-PR: 0.8968, Precision: 0.8223, Recall: 0.8070, F1 Score: 0.8146
+RMSE: 14.2261 , PCC: 0.6971
+Fold 5
+Fitting 5 folds for each of 14 candidates, totalling 70 fits
+Accuracy: 0.8132, AUC-ROC: 0.8977
+ AUC-PR: 0.9017, Precision: 0.8208, Recall: 0.8085, F1 Score: 0.8146
+RMSE: 14.2577 , PCC: 0.6954
+****************************************************************************************************
+*           Final MACSynCDR Results:
+****************************************************************************************************
+ AUC: 0.8962 ± 0.0058
+ Accuracy: 0.8125 ± 0.0054
+ AUC-PR: 0.8963 ± 0.0045
+ Precision: 0.8142 ± 0.0065
+ Recall: 0.8085 ± 0.0133
+ F1: 0.8113 ± 0.0068
+ RMSE: 14.3177 ± 0.2007
+ PCC: 0.6922 ± 0.0106
+Max AUC: 0.9014
+Max ACC: 0.8184
+Max AUC-PR: 0.9017
+Max Precision: 0.8223
+Max Reacall: 0.8310
+Max F1: 0.8183
+MIN RMSE: 14.1592
+Max PCC: 0.7005

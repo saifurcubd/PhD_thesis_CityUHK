@@ -1,0 +1,10 @@
+{
+  "epoch": 10,
+  "batch": 256,
+  "suffix": "Ablation_Proteomics",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}

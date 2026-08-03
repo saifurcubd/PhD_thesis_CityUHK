@@ -1,0 +1,10 @@
+{
+  "epoch": 20,
+  "batch": 256,
+  "suffix": "Ablation_only_ANN",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}

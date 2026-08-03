@@ -1,0 +1,10 @@
+{
+  "epoch": 30,
+  "batch": 256,
+  "suffix": "Ablation_No_ensemble_LR",
+  "lr": [
+    0.001,
+    0.0001,
+    1e-05
+  ]
+}
