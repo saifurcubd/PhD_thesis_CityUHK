@@ -1,7 +1,7 @@
-<p align="center">
+
 # 🧬 Computational Intelligence Frameworks for Precision Oncology:
 ## Early Cancer Detection and Anticancer Drug Combination Response Prediction
-
+<p align="center">
 **PhD Thesis Repository**
 
 **Saifur Rahaman**
