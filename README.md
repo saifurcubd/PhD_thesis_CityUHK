@@ -1,7 +1,6 @@
-# 🧬 Computational Intelligence Frameworks for Precision Oncology 
-## Early Cancer Detection and Anticancer Drug Combination Response Prediction
-
 <p align="center">
+# 🧬 Computational Intelligence Frameworks for Precision Oncology:
+## Early Cancer Detection and Anticancer Drug Combination Response Prediction
 
 **PhD Thesis Repository**
 
