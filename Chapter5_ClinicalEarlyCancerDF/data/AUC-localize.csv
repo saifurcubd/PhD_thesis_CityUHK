@@ -1,0 +1,6 @@
+methods,First study\n (10-folds CV),First study\n (30% inde-pendent test data),Second study\n(10-folds CV),Second study\n(30% inde-pendent test data)
+DELFI,0.85,0,0.92,0.94
+CancerSEEK,0.85,0.88,0.91,0
+ASVM,0.791,0.791,0.906,0.907
+CancerEMC,0.945,0.945,0.992,0.992
+BiDiEarlyCancerDF,0.99,0.983,0.996,0.996
