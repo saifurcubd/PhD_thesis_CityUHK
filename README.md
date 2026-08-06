@@ -166,11 +166,10 @@ Chapter5_ClinicalEarlyCancerDF/
 ```
 ---
 
-```
 Manuscript:
 
 **Saifur Rahaman**, Tanjim Mahmud, Peter Wang, Jun Yu, Muhammad Toseef, Xiangtao Li, Karl Andersson, and Ka-Chun Wong,∗ ClinicalEarlyCancerDF: An Explainable Machine Learning Framework for Early Cancer Detection Using Genome-Wide cfDNA Profiles and Biomarkers from Non-Invasive Liquid Biopsy
-```
+
 
 # 💊 Chapter 6 — MACSynDCRP
 
@@ -196,7 +195,7 @@ Repository:
 ```
 Chapter6_MACSynDCRP/
 ```
-```
+
 Publication: 
 
  **Rahaman, S.**, Wang, P., Yu, J., Rahman, T., Toseef, M., Sayem, I. M., ... & Wong, K. C. (2025). Precision oncology informatics for anticancer drug combination responses: a systematic review. Computers in Biology and Medicine, 196, 110788. [Chapter 6 reviews]
@@ -204,7 +203,7 @@ Publication:
 Manuscript:
 
 Saifur Rahamana, Xiangtao Lib, Tanjim Mahmudd, Karl Anderssone and Ka-Chun Wonga,c,∗ MACSynDCRP: A Multi-Modal Ensemble Deep Learning Framework for Predicting Synergistic Anti-Cancer Drug Combination Responses
-```
+
 
 ---
 
