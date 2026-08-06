@@ -301,7 +301,7 @@ Email: *srahaman2-c@my.cityu.edu.hk, saifurcubd@gmail.com**
 
 # 🙏 Acknowledgements
 
-I sincerely thank my respected PhD **Supervisor**, Examiners, Qualifying Panel members, and mentor from Harvard Medical School, collaborators, research partners, and the City University of Hong Kong for their invaluable guidance and support throughout this research.
+I sincerely thank my respected PhD **Supervisor (Prof. Ka Chun Wong)**, Examiners, Qualifying Panel members, and mentor from Harvard Medical School, collaborators, research partners, and the City University of Hong Kong for their invaluable guidance and support throughout this research.
 
 ---
 
